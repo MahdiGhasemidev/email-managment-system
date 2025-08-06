@@ -23,12 +23,6 @@ A powerful and user-friendly tool for managing and sending emails using [yagmail
 - **MariaDB database support**  
     Store and manage profiles, templates, and email logs securely using [MariaDB](https://mariadb.org/).
 
-## Requirements
-
-- Python 3.7 or higher
-- [yagmail](https://pypi.org/project/yagmail/)
-- [streamlit](https://pypi.org/project/streamlit/)
-- [mysql-connector-python](https://pypi.org/project/mysql-connector-python/) or [PyMySQL](https://pypi.org/project/PyMySQL/) (for MariaDB)
 
 ## Installation
 
