@@ -1,0 +1,9 @@
+streamlit==1.26.0
+pytz-deprecation-shim==0.1.0.post0
+pandas
+yagmail==0.15.293
+loguru==0.7.3
+faiss-cpu==1.11.0.post1
+sentence-transformers==5.0.0
+cryptography==2.2.1
+mariadb==1.1.9
