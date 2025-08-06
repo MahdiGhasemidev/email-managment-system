@@ -24,11 +24,6 @@ A powerful and user-friendly tool for managing and sending emails using [yagmail
     Store and manage profiles, templates, and email logs securely using [MariaDB](https://mariadb.org/).
 
 
-## Installation
-
-```bash
-pip install yagmail streamlit mysql-connector-python
-```
 
 ## Usage
 
