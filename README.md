@@ -46,6 +46,15 @@ pip install yagmail streamlit mysql-connector-python
     ```
 4. Use the web interface to manage profiles, compose emails, and send or schedule messages.
 
+## 🛠 Requirements
+
+Dependencies are listed in `requirements.txt`.  
+Install them with:
+
+```bash
+pip install -r requirements.txt
+```
+
 ## 🪪 License
 
 This project is licensed under the [MIT License](LICENSE).
